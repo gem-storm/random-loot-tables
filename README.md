@@ -23,7 +23,7 @@ code explanation:
 ## Usage
 - Go to the [default minecraft datapack repo](https://github.com/PixiGeko/Minecraft-default-data/), select the branch for whatever version of minecraft you're using, click the green `Code` button and `Download ZIP`.
 - Unzip the datapack
-- Download and run `randomize.py` with python
+- Download and run [randomize.py](/randomize.py) with python
 - Paste the path to `<default-datapack>\data\minecraft\loot_tables\blocks` when prompted.
 - Done!
 
