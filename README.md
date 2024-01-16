@@ -15,7 +15,7 @@ data pack folder structure:
 code explanation:
         - makes a list of all info from json
         files in loot_tables\blocks
-        - gets a random file's info from the list
+        - gets a random json file's data from the list
         - replace all info in the json files with
         the random file info we got above
 ```
